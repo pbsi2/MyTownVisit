@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">MyTownVisit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="economy">Economy</string>
+    <string name="economy_1">Tobaco</string>
+    <string name="economy_1_addr">1707 Black Creek Rd SE, Wilson, NC 27893</string>
+    <string name="economy_1_desc">North Carolina Tobacco Manufacturing (NCTM) is a private label tobacco products manufacturer specializing in �Made in the USA� cigarettes, flavored and non-flavored filtered and non-filtered cigars and pipe tobacco. NCTM also develops and assembles high-quality, private brand cigars and cigarettes for other companies under contract, which are distributed around the world. Our team of innovators are consistently evolving to improve our capabilities giving us the edge over most conventional manufacturers</string>
+    <string name="economy_2">Soy</string>
+    <string name="economy_2_addr">1503 Lipscomb Road, Wilson, NC 27893</string>
+    <string name="economy_2_desc">North Carolina farmers plant soybeans in all 100 counties in the state from the mountains to the sea. At 1.6 million acres in an average year, soybeans have the biggest footprint of any crop in the state. In a good year, the crop is worth as much as $800 million to farmers. Because soybeans work well in rotation with other crops like tobacco, and can be planted in the same field in the same year following the winter wheat crop, it is a very popular crop with farmers. Most soybean acres in North Carolina are in the eastern part of the state in the coastal plain. Leading soybean counties include Robeson, Beaufort, Pitt, Sampson, Pasquotank, Wayne, Duplin, and Johnston counties.</string>
+    <string name="economy_3">Bridgestone</string>
+    <string name="economy_3_addr">3001 Firestone Pkwy, Wilson, NC 27893</string>
+    <string name="economy_3_desc">Our strong tradition and respect for our rich history infuses our work every day, but a desire for innovation and new ideas keep us reaching for new heights. We take pride in fulfilling our mission: �Serving society with superior quality.� Our customers depend on us to improve the way they live, move, work and play, and we believe our teammates� skill, dedication and compassion help us fulfill that calling.</string>
+    <string name="economy_4">Saint Gobain</string>
+    <string name="economy_4_addr">2201 Firestone Pkwy, Wilson, NC 27893</string>
+    <string name="economy_4_desc">Saint Gobain, together with its subsidiaries, engages in the design, manufacture, and distribution of functional materials, such as glass, ceramics, plastics, and abrasives worldwide. Saint Gobain operates through five segments: Building Distribution, Construction Products, Flat Glass, High-Performance Materials, and Packaging. The company was originally founded in 1665 and is headquartered in Paris, France. Verallia, formerly Saint Gobain Containers, Inc., is a wholly owned subsidiary of Saint Gobain and belongs to the Packaging Division. In the United States, Verallia is a leading producer of glass packaging for the food and beverage industries, and employs more than 4,000 people. Verallia is headquartered in Muncie, Indiana and serves the North American market from 13 plant locations. One of Verallia�s 13 facilities is located in Wilson, North Carolina. The Wilson facility employs 285 people, is the 5th largest manufacturer in Wilson County.</string>
+
+    <string name="people">People</string>
+    <string name="people_1">Interesting People</string>
+    <string name="people_1_addr">1707 Black Creek Rd SE, Wilson, NC 27893</string>
+    <string name="people_1_desc">major league baseball pitcher who played eleven total career seasons in the National League. He played for the Cincinnati Reds, Boston Braves and St. Louis Cardinals</string>
+    <string name="people_2">Miguel A. N��ez, Jr.</string>
+    <string name="people_2_addr">1503 Lipscomb Road, Wilson, NC 27893</string>
+    <string name="people_2_desc">American actor. He is best known for his supporting roles in The Return of the Living Dead and Life, and a leading role in Juwanna Mann</string>
+    <string name="people_3">Naomi E. Morris</string>
+    <string name="people_3_addr">3001 Firestone Pkwy, Wilson, NC 27893</string>
+    <string name="people_3_desc">She was Chief Judge of that court from 1978 through 1982, the first woman to hold that post and only the second woman in the state to hold such a high judicial position</string>
+    <string name="people_4">Corey Thomas</string>
+    <string name="people_4_addr">2201 Firestone Pkwy, Wilson, NC 27893</string>
+    <string name="people_4_desc">Sformer professional American football wide receiver who played in one game for the Detroit Lions in 1998</string>
+
+    <string name="exibit">Exibits</string>
+    <string name="exibit_1">Artsy Alleys</string>
+    <string name="exibit_1_addr">112 Goldsboro St E, Wilson, NC 27893</string>
+    <string name="exibit_1_desc">Artsy Alley is an initiative of Wilson Downtown Development Corporation which takes the arts to new locations in forgotten places. Historic Downtown Wilson�s alleys link the community together, from the newly developing Vollis Simpson Whirligig Park to the cultural attractions, to the shops and restaurants, to the parking lots servicing all of those amenities.</string>
+    <string name="exibit_2">Whirligig Park</string>
+    <string name="exibit_2_addr">301 Goldsboro St S, Wilson, NC 27893</string>
+    <string name="exibit_2_desc">He is best known for his supporting roles in The Return of the Living Dead and Life, and a leading role in Juwanna Mann</string>
+    <string name="exibit_3">Paul Berry Park</string>
+    <string name="exibit_3_addr">200 Kenan Street W, Wilson, NC 27893</string>
+    <string name="exibit_3_desc">Park Amenities: Water Fountain, Whirligigs, Walking Trail, Open Space (No Shelter)</string>
+    <string name="exibit_4">Oliver Nestus Freeman Round House</string>
+    <string name="exibit_4_addr">1202 Nash Street East,Wilson, North Carolina 27893</string>
+    <string name="exibit_4_desc">The Oliver Nestus Freeman Round House Museum has served to preserve, promote and present African-American history, art and culture to all citizens of Wilson and the region in order to increase the awareness, understanding, and appreciation of cultural traditions and African-American contributions to society.</string>
+
+    <string name="restaurant">Restaurant</string>
+    <string name="restaurant_1">Alleys</string>
+    <string name="restaurant_1_addr">112 Goldsboro St E, Wilson, NC 27893</string>
+    <string name="restaurant_1_desc">Artsy Alley is an initiative of Wilson Downtown Development Corporation which takes the arts to new locations in forgotten places. Historic Downtown Wilson�s alleys link the community together, from the newly developing Vollis Simpson Whirligig Park to the cultural attractions, to the shops and restaurants, to the parking lots servicing all of those amenities.</string>
+    <string name="restaurant_2">Whirligig</string>
+    <string name="restaurant_2_addr">301 Goldsboro St S, Wilson, NC 27893</string>
+    <string name="restaurant_2_desc">He is best known for his supporting roles in The Return of the Living Dead and Life, and a leading role in Juwanna Mann</string>
+    <string name="restaurant_3">Paul</string>
+    <string name="restaurant_3_addr">200 Kenan Street W, Wilson, NC 27893</string>
+    <string name="restaurant_3_desc">Park Amenities: Water Fountain, Whirligigs, Walking Trail, Open Space (No Shelter)</string>
+    <string name="restaurant_4">Nestus</string>
+    <string name="restaurant_4_addr">1202 Nash Street East,Wilson, North Carolina 27893</string>
+    <string name="restaurant_4_desc">The Oliver Nestus Freeman Round House Museum has served to preserve, promote and present African-American history, art and culture to all citizens of Wilson and the region in order to increase the awareness, understanding, and appreciation of cultural traditions and African-American contributions to society.</string>
+
+</resources>
